@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório
 
- Repositório criado para rever conceitos básicos
+ Repositório feito para rever conceitos básicos.
